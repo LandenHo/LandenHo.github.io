@@ -1,10 +1,10 @@
-## M'Lady
+## Ayy y'all, section leader Kat needs them bands for her Peru trip ==> https://www.gofundme.com/kats-trip-to-peru
 
 What's good dawg, I'm tryna stay alive in this class you feel? You can use the [editor on GitHub](https://github.com/LandenHo/LandenHo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### yee yee bo
+### Bottom Bext
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
