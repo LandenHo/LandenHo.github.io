@@ -1,10 +1,10 @@
-## If it ain't brown, don't bring it around
+## M'Lady
 
 What's good dawg, I'm tryna stay alive in this class you feel? You can use the [editor on GitHub](https://github.com/LandenHo/LandenHo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### If it yellow, make it mellow
+### yee yee bo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
