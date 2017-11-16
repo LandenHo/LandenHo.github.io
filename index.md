@@ -6,6 +6,6 @@
 ***
 
 **Oh and go check out this link ==> <https://www.gofundme.com/kats-trip-to-peru>.
-Kat needs her funds for her volunteer work and any donations would be greatly appreciated** 
+Kat needs some funds for her volunteer work  She plans on improving the communities there while also enjoying it on the way. Any donations would be greatly appreciated.** 
 
 ***
