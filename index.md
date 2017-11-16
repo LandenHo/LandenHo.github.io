@@ -5,7 +5,7 @@
 
 ***
 
-**Oh and go check out this link ==> https://www.gofundme.com/kats-trip-to-peru.
+**Oh and go check out this link ==> <https://www.gofundme.com/kats-trip-to-peru>.
 Kat needs her funds for her volunteer work and any donations would be greatly appreciated** 
 
 ***
