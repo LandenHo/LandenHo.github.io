@@ -12,4 +12,6 @@ Kat needs some funds for her volunteer work. She plans on improving the communit
 
 ###Camera Effects
 
-![filter](untitled (4).jpg?raw=true "Optional Title")
+![filter](untitled (4).png?raw=true "Optional Title")
+
+***
